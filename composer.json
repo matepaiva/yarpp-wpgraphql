@@ -1,0 +1,20 @@
+{
+  "name": "matepaiva/yarpp-wpgraphql",
+  "description": "Creates a relatedPosts field in Post type with wp-graphql. You must have installed wp-graphql and YARPP.",
+  "keywords": ["wordpress", "plugin", "wp-graphql", "wpgraphql", "yarpp", "related posts", "popular posts"],
+  "homepage": "https://github.com/matepaiva/yarpp-wpgraphql",
+  "repository": "https://github.com/matepaiva/yarpp-wpgraphql",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matheus Paiva",
+      "email": "mmccpp@gmail.com",
+      "homepage": "https://github.com/matepaiva"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "v1.10.0"
+  }
+}
