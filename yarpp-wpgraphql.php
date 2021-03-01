@@ -1,8 +1,13 @@
 <?php
 
 /**
- * Plugin Name: YARPP + WP-GraphQL
+ * Plugin Name: YARPP WPGraphQL
+ * Plugin URI: https://github.com/matepaiva/yarpp-wpgraphql
+ * Version: 0.0.1
+ * Author: Matheus Paiva
+ * Author URI: https://github.com/matepaiva/
  * Description: Creates a relatedPosts field in Post type with wp-graphql. You must have installed wp-graphql and YARPP.
+ * License: GPLv2 or later
  */
 
 
